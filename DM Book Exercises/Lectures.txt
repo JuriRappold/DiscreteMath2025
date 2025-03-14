@@ -1,0 +1,25 @@
+Exam relevant lectures and book chapters:
+	Lec00 - Chpts: 1, 2.1 (Intro to Logic)
+	Lec01 - Chpts: 2.2,2.4 (Conditional Statements and Digital Logic Circuits)
+	Lec02 - Chpts: 2.5 (Number systems, Circuits for Addition and Subtraction)
+	Lec03 - Chpts: 4.1, 4.4, 4.5, 4.10
+	Lec05 - Chpts: 6.1, 6.2 (Sets)
+	Lec09 - Chpts: 7.1-7.3, 8.1, 8.2 (Functions and Relations)
+	Lec10 - Chpts: 8.3,8.4 (Relations and Cryptography; only Relations is relevant)
+
+From the Study guide:
+	Contents on the written exam:
+	• Logic and digital circuits
+	• Computer representation and arithmetic
+	• Sets
+	• Functions and relations
+	• Number theory
+
+	Learning Outcomes for exam:
+		1,3,5,6,8, and 10
+		1: explain relationships within set theory and mathematical functions
+		3: explain basic number theory 
+		5: make a computer representation of numbers 
+		6: apply Boolean algebra and logic in problem formulations related to computer technology 
+		8: apply elementary set theory
+		10: convert and perform arithmatic in different numbering systems
